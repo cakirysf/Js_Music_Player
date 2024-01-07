@@ -1,6 +1,6 @@
 <h1>Müzik Çalar | Music Player</h1>
 
-<p>HTML, CSS, JAVASCRİPT kullanılarak yapılmış Müzik Çalar</p>
+<p>HTML, CSS, JAVASCRIPT kullanılarak yapılmış Müzik Çalar</p>
 
 <ul>
   <li>Music Player</li>
